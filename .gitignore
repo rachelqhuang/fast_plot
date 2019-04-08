@@ -1,0 +1,9 @@
+#ignore
+*.png
+*.txt
+quickpencil.py
+*.svg
+*.jpg
+fast_plot_v0.ipynb
+*.ipynb_checkpoints
+.ipynb_checkpoints
